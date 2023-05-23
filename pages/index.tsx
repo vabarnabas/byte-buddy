@@ -4,7 +4,7 @@ import { CopyBlock, dracula } from "react-code-blocks";
 export default function Home() {
   return (
     <Layout>
-      <div className="flex flex-col items-center justify-center w-full max-w-[1280px]">
+      <div className="flex flex-col items-center justify-center w-full max-w-[1280px] mt-6">
         <div className="relative w-full flex flex-col items-center">
           <div className="flex flex-col items-center gap-y-12 mt-24">
             <p className="font-bold text-4xl md:text-5xl text-center">
